@@ -1,0 +1,45 @@
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\bin\Debug\Week4F2.exe.config
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\bin\Debug\Week4F2.exe
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\bin\Debug\Week4F2.pdb
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\obj\Debug\Week4F2.csprojAssemblyReference.cache
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\obj\Debug\MainWindow.g.cs
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\obj\Debug\App.g.cs
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\obj\Debug\Week4F2_MarkupCompile.cache
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\obj\Debug\Week4F2_MarkupCompile.lref
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\obj\Debug\MainWindow.baml
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\obj\Debug\Week4F2.g.resources
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\obj\Debug\Week4F2.Properties.Resources.resources
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\obj\Debug\Week4F2.csproj.GenerateResource.cache
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\obj\Debug\Week4F2.csproj.CoreCompileInputs.cache
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\obj\Debug\Week4F2.exe
+c:\users\rick\documents\visual studio 2017\Projects\Week4F2\Week4F2\obj\Debug\Week4F2.pdb
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\bin\Debug\Week4F2.exe.config
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\bin\Debug\Week4F2.exe
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\bin\Debug\Week4F2.pdb
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\obj\Debug\Week4F2.csprojAssemblyReference.cache
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\obj\Debug\MainWindow.g.cs
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\obj\Debug\App.g.cs
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\obj\Debug\Week4F2_MarkupCompile.cache
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\obj\Debug\Week4F2_MarkupCompile.lref
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\obj\Debug\MainWindow.baml
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\obj\Debug\Week4F2.g.resources
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\obj\Debug\Week4F2.Properties.Resources.resources
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\obj\Debug\Week4F2.csproj.GenerateResource.cache
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\obj\Debug\Week4F2.csproj.CoreCompileInputs.cache
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\obj\Debug\Week4F2.exe
+C:\Users\edy.radisic\Desktop\Conestoga\Conestoga W19 Courses\PROG8010\Reference - Previous Material\Master\In Class Code\Week4F2\Week4F2\obj\Debug\Week4F2.pdb
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\bin\Debug\Week4F2.exe.config
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\bin\Debug\Week4F2.exe
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\bin\Debug\Week4F2.pdb
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\obj\Debug\Week4F2.csprojAssemblyReference.cache
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\obj\Debug\MainWindow.g.cs
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\obj\Debug\App.g.cs
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\obj\Debug\Week4F2_MarkupCompile.cache
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\obj\Debug\Week4F2_MarkupCompile.lref
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\obj\Debug\MainWindow.baml
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\obj\Debug\Week4F2.g.resources
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\obj\Debug\Week4F2.Properties.Resources.resources
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\obj\Debug\Week4F2.csproj.GenerateResource.cache
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\obj\Debug\Week4F2.csproj.CoreCompileInputs.cache
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\obj\Debug\Week4F2.exe
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\Week4F2-vER\Week4F2\Week4F2\obj\Debug\Week4F2.pdb

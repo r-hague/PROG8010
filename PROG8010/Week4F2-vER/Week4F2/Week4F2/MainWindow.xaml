@@ -1,0 +1,29 @@
+﻿<Window x:Class="Week4F2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Week4F2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="5*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBox FontSize="35" Text="{Binding InputText, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <ListBox Name="LbItems" Grid.Row="1" FontSize="50" SelectedIndex="{Binding CurrentIndex}">
+            <!--SelectionChanged="ListBox_SelectionChanged"-->
+            <ListBoxItem Tag="0">Item 1</ListBoxItem>
+            <ListBoxItem Tag="1">Item 2</ListBoxItem>
+            <ListBoxItem Tag="2">Item 3</ListBoxItem>
+        </ListBox>
+        <Viewbox Grid.Row="2">
+            <CheckBox Name="CbEnglish" Content="English" IsChecked="{Binding English}"></CheckBox>
+            <!-- Checked="CbEnglish_Checked" Unchecked="CbEnglish_Checked"></CheckBox -->
+        </Viewbox>
+        <Label Name="LblOut" Grid.Row="3" FontSize="35" Content="{Binding DisplayText}"></Label>
+    </Grid>
+</Window>

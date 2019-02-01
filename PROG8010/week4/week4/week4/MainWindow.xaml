@@ -1,0 +1,19 @@
+﻿<Window x:Class="week4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:week4"
+        mc:Ignorable="d"
+        Title="Week 4" Height="350" Width="525" Loaded="Window_Loaded">
+    <Viewbox>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <ListBox Name="lbStuff" Margin="1" SelectionChanged="lbStuff_SelectionChanged"/>
+            <Label Name="lblSelected" Grid.Row="1"/>
+        </Grid>
+    </Viewbox>
+</Window>

@@ -1,0 +1,27 @@
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\bin\Debug\week4.exe
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\bin\Debug\week4.pdb
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\obj\Debug\week4.csprojResolveAssemblyReference.cache
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\obj\Debug\MainWindow.g.cs
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\obj\Debug\App.g.cs
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\obj\Debug\week4_MarkupCompile.cache
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\obj\Debug\week4_MarkupCompile.lref
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\obj\Debug\MainWindow.baml
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\obj\Debug\week4.g.resources
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\obj\Debug\week4.Properties.Resources.resources
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\obj\Debug\week4.csproj.GenerateResource.Cache
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\obj\Debug\week4.exe
+c:\users\rick\documents\visual studio 2017\Projects\week4\week4\obj\Debug\week4.pdb
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\bin\Debug\week4.exe
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\bin\Debug\week4.pdb
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\obj\Debug\week4.csprojAssemblyReference.cache
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\obj\Debug\MainWindow.g.cs
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\obj\Debug\App.g.cs
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\obj\Debug\week4_MarkupCompile.cache
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\obj\Debug\week4_MarkupCompile.lref
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\obj\Debug\MainWindow.baml
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\obj\Debug\week4.g.resources
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\obj\Debug\week4.Properties.Resources.resources
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\obj\Debug\week4.csproj.GenerateResource.cache
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\obj\Debug\week4.csproj.CoreCompileInputs.cache
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\obj\Debug\week4.exe
+C:\Users\rmhag\OneDrive - Conestoga College\Software Development\Week 4\Code Examples\week4\week4\week4\obj\Debug\week4.pdb
