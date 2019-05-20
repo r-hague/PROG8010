@@ -1,0 +1,30 @@
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe.config
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.pdb
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csprojAssemblyReference.cache
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\obj\Debug\MainWindow.g.cs
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\obj\Debug\App.g.cs
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails_MarkupCompile.cache
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails_MarkupCompile.lref
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\obj\Debug\MainWindow.baml
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.g.resources
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.Properties.Resources.resources
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.GenerateResource.cache
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.CoreCompileInputs.cache
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.exe
+C:\Users\rmhag\OneDrive\School\Conestoga\Software Development\Week 1 Materials\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.pdb
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe.config
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.pdb
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csprojAssemblyReference.cache
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\obj\Debug\MainWindow.g.cs
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\obj\Debug\App.g.cs
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails_MarkupCompile.cache
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails_MarkupCompile.lref
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\obj\Debug\MainWindow.baml
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.g.resources
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.Properties.Resources.resources
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.GenerateResource.cache
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.CoreCompileInputs.cache
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.exe
+C:\Users\rmhag\OneDrive - Conestoga College\Term 1\Software Development\Week 1\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.pdb
